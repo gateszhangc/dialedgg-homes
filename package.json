@@ -1,0 +1,10 @@
+{
+  "name": "dialedgg",
+  "version": "1.0.0",
+  "description": "Color memory game - test how well you can recall colors",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["color game", "color memory", "color guess", "dialed gg"]
+}
